@@ -1,0 +1,17 @@
+{
+    "name": "hcetinkaya/tripsorter",
+    "description": "TripSorter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Halil Burak Cetinkaya",
+            "email": "hburak3534@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TripSorter\\": "src/"
+        }
+    }
+}
